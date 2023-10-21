@@ -1,4 +1,4 @@
-print('3↑↑3=3^3^3=7x10^12')
+print('3↑↑3=3^3^3^3=7x10^12')
 print('x ↑*a b')
 e1,e2,e3 = int(input('x= ')),int(input('a= ')),int(input('b= '))
 if e2 > 0:
